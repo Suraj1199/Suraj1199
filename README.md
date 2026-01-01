@@ -1,22 +1,11 @@
 <h1 align="center">Hi 👋, I'm Suraj Singh</h1>
 <h3 align="center">AI • Robotics • Autonomous Systems • Cyber-Physical Systems</h3>
 
-<p align="center">
-MS (CSE) @ IIT Kharagpur | Research Engineer | Safe & Learning-Enabled Autonomy
-</p>
-
 ---
 
 ### 🧠 About Me
 I am a **research-oriented engineer** working at the intersection of  
 **Artificial Intelligence, Robotics, and Cyber-Physical Systems**.
-
-My work focuses on:
-- **Safety-critical learning** for autonomous systems  
-- **Safe Reinforcement Learning** and **Neural Barrier Certificates**  
-- **Autonomous Vehicles**, real-time systems, and **CPU-GPU co-design**
-
-Currently pursuing my **MS in Computer Science & Engineering at IIT Kharagpur**, with active research collaborations and peer-review experience in top CPS and embedded systems venues.
 
 ---
 

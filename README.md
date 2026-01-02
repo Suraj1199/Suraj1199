@@ -1,25 +1,11 @@
 <h1 align="center">Hi 👋, I'm Suraj Singh</h1>
-<h3 align="center">AI • Robotics • Autonomous Systems • Cyber-Physical Systems</h3>
+<!-- <h3 align="center">AI • Robotics • Autonomous Systems • Cyber-Physical Systems</h3> -->
 
 ---
 
 ### 🧠 About Me
 I am a **research-oriented engineer** working at the intersection of  
 **Artificial Intelligence, Robotics, and Cyber-Physical Systems**.
-
----
-
-### 🔬 Research Interests
-- Safe & Robust Reinforcement Learning  
-- Learning-Enabled Autonomous Systems  
-- Cyber-Physical Systems (CPS)  
-- Autonomous Vehicles & Robotics  
-- Formal Safety Assurance & Verification  
-- Real-Time & Embedded AI Systems  
-
----
-
-### 🛠️ Technical Skills
 
 #### 💻 Programming & Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -44,6 +30,15 @@ I am a **research-oriented engineer** working at the intersection of
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat)
 ![CVXPY](https://img.shields.io/badge/CVXPY-2C2C2C?style=flat)
 ![Gurobi](https://img.shields.io/badge/Gurobi-ED1C24?style=flat)
+---
+
+### 🔬 Research Interests
+- Safe & Robust Reinforcement Learning  
+- Learning-Enabled Autonomous Systems  
+- Cyber-Physical Systems (CPS)  
+- Autonomous Vehicles & Robotics  
+- Formal Safety Assurance & Verification  
+- Real-Time & Embedded AI Systems  
 
 ---
 

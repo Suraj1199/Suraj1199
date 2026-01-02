@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Suraj Singh</h1>
 <!-- <h3 align="center">AI • Robotics • Autonomous Systems • Cyber-Physical Systems</h3> -->
----
+
 #### 💻 My Core Programming & Development Skills Include
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-555555?style=flat&logo=c&logoColor=white)
@@ -11,6 +12,7 @@
 
 
 #### 🤖 Some Robotics & Simulation Frameworks I have Experience With
+
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
 ![CARLA](https://img.shields.io/badge/CARLA-Simulator-blue?style=flat)
 ![Gazebo](https://img.shields.io/badge/Gazebo-3C5280?style=flat)
@@ -28,6 +30,7 @@
 ---
 
 ## 🔬 Research Interests
+
 - Safe & Robust Reinforcement Learning  
 - Learning-Enabled Autonomous Systems  
 - Cyber-Physical Systems (CPS)  

@@ -1,5 +1,24 @@
 <h1 align="center">Hi 👋, I'm Suraj Singh</h1>
 <!-- <h3 align="center">AI • Robotics • Autonomous Systems • Cyber-Physical Systems</h3> -->
+<p align="center">
+<strong> I am enthusiastic about building safe and resilient AI systems 🚗🤖</strong>
+</p>
+
+<p align="center">
+  🌐 Connect With Me <br>
+<a href="https://linkedin.com/in/suraj-singh-9a845a16b" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:suraj19995.ss@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Suraj1199">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
 
 #### 💻 My Core Programming & Development Skills Include
 
@@ -31,29 +50,10 @@
 
 ## 🔬 Research Interests
 
-- Safe & Robust Reinforcement Learning  
-- Learning-Enabled Autonomous Systems  
-- Cyber-Physical Systems (CPS)  
-- Autonomous Vehicles & Robotics  
+- Generative AI and Embodied AI
+- Safe Reinforcement Learning (RL)
+- Robotic Cyber-Physical Systems (CPS)
 - Formal Safety Assurance & Verification  
-- Real-Time & Embedded AI Systems  
+- Real-Time & Embedded Systems 
 
 
-### 🌐 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/suraj-singh-9a845a16b" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:suraj19995.ss@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Suraj1199">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-</a>
-</p>
-
----
-
-<p align="center">
-<strong>Building safe, intelligent, and trustworthy autonomous systems 🚗🤖</strong>
-</p>

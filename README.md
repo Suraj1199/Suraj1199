@@ -37,7 +37,7 @@
     </td>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=docker" width="40"/><br><b>Docker</b>
-    </t
+    </td>
     <!-- <td align="center" width="80"> -->
       <!-- <img src="https://skillicons.dev/icons?i=linux" width="40"/><br><b>Linux</b> -->
     <!-- </td> -->

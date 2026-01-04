@@ -86,11 +86,11 @@
       <p align="center">
         <b></b>
       </p>
-      <p>
+      <!--p>
         Implemented a synchronous simulation bridging <b>CARLA</b> & <b>NVIDIA Xavier NX</b>. Enables safe AV testing with real-time hardware constraints.
-      </p>
+</p-->
       <p align="center">
-        <img src="https://img.shields.io/badge/Tech-ROS_|_TensorRT_|_YOLO-blue?style=flat-square"/>
+        <img src="https://img.shields.io/badge/repo-CARLA_|_Ultralytics_|CVXPY-blue?style=flat-square"/>
         <br>
         <!-- <a href="#"><b>View Paper (IEEE ESL) ➔</b></a> -->
       </p>
@@ -100,11 +100,11 @@
       <p align="center">
         <b></b>
       </p>
-      <p>
+      <!--p>
         Formulated adversarial training for neural barrier certificates. Integrated with Lagrangian-based Safe RL for minimal safety violations.
-      </p>
+      </p>-->
       <p align="center">
-        <img src="https://img.shields.io/badge/Tech-PyTorch_|_CVXPY_|_Gurobi-orange?style=flat-square"/>
+        <img src="https://img.shields.io/badge/repo-PyTorch_|_SafetyGym_|_RLlib-orange?style=flat-square"/>
         <br>
         <!-- <a href="#"><b>View Code ➔</b></a> -->
       </p>
@@ -112,27 +112,27 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🏎️ Robot Design and Navigation</h3>
+      <h3 align="center">🤖 Intelligent Robot Design</h3>
       <p align="center">
         <b></b>
       </p>
-      <p>
+      <!--p>
         Designed & built F-1/12th Scale 3 robot cars with full sensor stacks (LiDAR, Cam). Implemented SLAM, Hybrid A*, and Neural Controllers from scratch.
-      </p>
+    </p-->
       <p align="center">
-        <img src="https://img.shields.io/badge/Tech-NVIDIA_|_ROS_|_C++-green?style=flat-square"/>
+        <img src="https://img.shields.io/badge/repo-ROS_|_Gazebo_|_OpenCV_-green?style=flat-square"/>
         <br>
         <!-- <a href="#"><b>View Paper (IEEE RTAS) ➔</b></a> -->
       </p>
     </td>
     <td width="50%">
       <h3 align="center">🧠 Generative AI Research</h3>
-      <p>
+      <!--p>
         Exploring LLMs, Transformers, and Diffusion models. Deep understanding of VAEs, GANs, and their application in embodied agents.
-      </p>
+    </p-->
       <p align="center">
-        <img src="https://img.shields.io/badge/Tech-Transformers_|_HuggingFace-yellow?style=flat-square"/>
-      </p>
+        <img src="https://img.shields.io/badge/repo-DeepSeek_|_HuggingFace-yellow?style=flat-square"/>
+</p>
     </td>
   </tr>
 </table>

@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Suraj Singh 👋</h1>
 <!-- <h3 align="center">AI • Robotics • Autonomous Systems • Cyber-Physical Systems</h3> -->
-<p align="center">
-<i> I am a self-motivated researcher specializing in applied machine learning with provable safety guarantees on deployable robotic systems</i>🤖
-</p>
+<!-- <h3 align="center"> Technical Skills </h3> -->
 
 <!-- <a href="https://linkedin.com/in/suraj-singh-9a845a16b" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>

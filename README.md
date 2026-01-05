@@ -86,7 +86,7 @@
         <b></b>
       </p>
       <p>
-        Implemented a synchronous simulation between CARLA & NVIDIA boards. Enabled safe AV testing with hardware constraints.
+        Synchronized simulation between CARLA & NVIDIA boards. Enabled safe AV testing with hardware constraints.
 </p>
       <p align="center">
         <img src="https://img.shields.io/badge/repo-CARLA_|_Ultralytics_|CVXPY-blue?style=flat-square"/>
@@ -100,7 +100,7 @@
         <b></b>
       </p>
       <p>
-        Formulated adversarial training for safety certificates. Integrated with Lagrangian-based RL for minimal safety violations.
+        Formulated adversarial training for safety certificates. Achieved safe RL training with minimal cost violations.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/repo-PyTorch_|_SafetyGym_|_RLlib-orange?style=flat-square"/>
@@ -113,7 +113,7 @@
     <td width="50%">
       <h3 align="center">🤖 Robotic Development </h3>
       <p>
-        Designed F-1/12th scale robot cars with sensors (LiDAR, Camera). Integrated SLAM, Hybrid A*, PID, and other controllers.
+        Built F1/12th-scale robot cars with sensors. Implemented perception, planning, and control modules.
     </p>
       <p align="center">
         <img src="https://img.shields.io/badge/repo-ROS_|_Gazebo_|_OpenCV_-green?style=flat-square"/>

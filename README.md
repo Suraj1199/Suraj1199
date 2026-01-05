@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Suraj Singh 👋</h1>
+<h1 align="center">Hi👋, I build safe autonomous systems.</h1>
 <!-- <h3 align="center">AI • Robotics • Autonomous Systems • Cyber-Physical Systems</h3> -->
 <!-- <h3 align="center"> Technical Skills </h3> -->
 

@@ -75,9 +75,8 @@
 
 </p>
 -->
----
 
-<h2 align="center">🔬 Featured Research Interests</h2>
+<h3 align="center">🔬 Research Interests with Featured Experience</h3>
 
 <table width="100%">
   <tr>
@@ -86,9 +85,9 @@
       <p align="center">
         <b></b>
       </p>
-      <!--p>
-        Implemented a synchronous simulation bridging <b>CARLA</b> & <b>NVIDIA Xavier NX</b>. Enables safe AV testing with real-time hardware constraints.
-</p-->
+      <p>
+        Implemented a synchronous simulation between CARLA & NVIDIA boards. Enabled safe AV testing with hardware constraints.
+</p>
       <p align="center">
         <img src="https://img.shields.io/badge/repo-CARLA_|_Ultralytics_|CVXPY-blue?style=flat-square"/>
         <br>
@@ -100,9 +99,9 @@
       <p align="center">
         <b></b>
       </p>
-      <!--p>
-        Formulated adversarial training for neural barrier certificates. Integrated with Lagrangian-based Safe RL for minimal safety violations.
-      </p>-->
+      <p>
+        Formulated adversarial training for safety certificates. Integrated with Lagrangian-based RL for minimal safety violations.
+      </p>
       <p align="center">
         <img src="https://img.shields.io/badge/repo-PyTorch_|_SafetyGym_|_RLlib-orange?style=flat-square"/>
         <br>
@@ -112,13 +111,10 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🤖 Intelligent Robot Design</h3>
-      <p align="center">
-        <b></b>
-      </p>
-      <!--p>
-        Designed & built F-1/12th Scale 3 robot cars with full sensor stacks (LiDAR, Cam). Implemented SLAM, Hybrid A*, and Neural Controllers from scratch.
-    </p-->
+      <h3 align="center">🤖 Robotic Development </h3>
+      <p>
+        Designed F-1/12th scale robot cars with sensors (LiDAR, Camera). Integrated SLAM, Hybrid A*, PID, and other controllers.
+    </p>
       <p align="center">
         <img src="https://img.shields.io/badge/repo-ROS_|_Gazebo_|_OpenCV_-green?style=flat-square"/>
         <br>
@@ -127,9 +123,9 @@
     </td>
     <td width="50%">
       <h3 align="center">🧠 Generative AI Research</h3>
-      <!--p>
-        Exploring LLMs, Transformers, and Diffusion models. Deep understanding of VAEs, GANs, and their application in embodied agents.
-    </p-->
+      <p>
+        Building a deep understanding of LLMs, Transformers, VAEs, GANs, Diffusion models, etc., and their application.
+    </p>
       <p align="center">
         <img src="https://img.shields.io/badge/repo-DeepSeek_|_HuggingFace-yellow?style=flat-square"/>
 </p>
@@ -138,7 +134,7 @@
 </table>
 
 <p align="center">
-  🌐 Connect With Me <br>
+  🌐 Connect With Me
   <p align="center">
   <a href="https://linkedin.com/in/suraj-singh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
